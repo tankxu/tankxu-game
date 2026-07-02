@@ -6,7 +6,7 @@ const games = [
     titleZh: "半挂车倒车入库",
     status: "Playable",
     date: "2026",
-    href: "/semi-trailer-parking/",
+    href: "https://semi-trailer-parking.tankxu.com/",
     repoName: "semi-trailer-parking-simulator",
     summary:
       "2D 半挂车停车模拟器，带路径预测和铰接车辆物理，适合反复练习倒车角度。",
@@ -19,7 +19,7 @@ const games = [
     titleZh: "挖掘机挖球",
     status: "In development",
     date: "2026",
-    href: "/excavator-sim/",
+    href: "https://game.tankxu.com/excavator/",
     repoName: "excavator-sim",
     summary:
       "网页 3D 限时挖球游戏，目标是用挖掘机操作感、沙土物理和计时挑战做出短局乐趣。",
