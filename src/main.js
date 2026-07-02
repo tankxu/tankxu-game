@@ -104,17 +104,6 @@ document.querySelector("#app").innerHTML = `
             慢慢把那些需要手感、物理和一点点幽默感的想法都收进来。
           </p>
         </div>
-        <div class="hero-game-mark" aria-hidden="true">
-          <span class="level-line"></span>
-          <span class="playfield"></span>
-          <span class="finish-pad"></span>
-          <span class="score-dot score-a"></span>
-          <span class="score-dot score-b"></span>
-          <span class="score-dot score-c"></span>
-          <span class="mini-rig rig-body"></span>
-          <span class="mini-rig rig-arm"></span>
-          <span class="mini-rig rig-bucket"></span>
-        </div>
       </section>
     </header>
 
